@@ -1,0 +1,15 @@
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\obj\Debug\net10.0\ApprovalWorkflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\obj\Debug\net10.0\ApprovalWorkflow.AssemblyInfoInputs.cache
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\obj\Debug\net10.0\ApprovalWorkflow.AssemblyInfo.cs
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\obj\Debug\net10.0\ApprovalWorkflow.csproj.CoreCompileInputs.cache
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\obj\Debug\net10.0\ApprovalWorkflow.sourcelink.json
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\bin\Debug\net10.0\ApprovalWorkflow.exe
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\bin\Debug\net10.0\ApprovalWorkflow.deps.json
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\bin\Debug\net10.0\ApprovalWorkflow.runtimeconfig.json
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\bin\Debug\net10.0\ApprovalWorkflow.dll
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\bin\Debug\net10.0\ApprovalWorkflow.pdb
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\obj\Debug\net10.0\ApprovalWorkflow.dll
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\obj\Debug\net10.0\refint\ApprovalWorkflow.dll
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\obj\Debug\net10.0\ApprovalWorkflow.pdb
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\obj\Debug\net10.0\ApprovalWorkflow.genruntimeconfig.cache
+C:\Users\HAI\OneDrive\Desktop\30Days\Day1\ApprovalWorkflow\obj\Debug\net10.0\ref\ApprovalWorkflow.dll
