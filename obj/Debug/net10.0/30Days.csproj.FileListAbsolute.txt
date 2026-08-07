@@ -1,0 +1,15 @@
+C:\Users\HAI\OneDrive\Desktop\30Days\bin\Debug\net10.0\30Days.exe
+C:\Users\HAI\OneDrive\Desktop\30Days\bin\Debug\net10.0\30Days.deps.json
+C:\Users\HAI\OneDrive\Desktop\30Days\bin\Debug\net10.0\30Days.runtimeconfig.json
+C:\Users\HAI\OneDrive\Desktop\30Days\bin\Debug\net10.0\30Days.dll
+C:\Users\HAI\OneDrive\Desktop\30Days\bin\Debug\net10.0\30Days.pdb
+C:\Users\HAI\OneDrive\Desktop\30Days\obj\Debug\net10.0\30Days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAI\OneDrive\Desktop\30Days\obj\Debug\net10.0\30Days.AssemblyInfoInputs.cache
+C:\Users\HAI\OneDrive\Desktop\30Days\obj\Debug\net10.0\30Days.AssemblyInfo.cs
+C:\Users\HAI\OneDrive\Desktop\30Days\obj\Debug\net10.0\30Days.csproj.CoreCompileInputs.cache
+C:\Users\HAI\OneDrive\Desktop\30Days\obj\Debug\net10.0\30Days.sourcelink.json
+C:\Users\HAI\OneDrive\Desktop\30Days\obj\Debug\net10.0\30Days.dll
+C:\Users\HAI\OneDrive\Desktop\30Days\obj\Debug\net10.0\refint\30Days.dll
+C:\Users\HAI\OneDrive\Desktop\30Days\obj\Debug\net10.0\30Days.pdb
+C:\Users\HAI\OneDrive\Desktop\30Days\obj\Debug\net10.0\30Days.genruntimeconfig.cache
+C:\Users\HAI\OneDrive\Desktop\30Days\obj\Debug\net10.0\ref\30Days.dll
