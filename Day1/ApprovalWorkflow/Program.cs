@@ -7,7 +7,7 @@ class Approvalworkflow
     {
         // purchase order details
         string item = "steel";
-        int quantity = 1;
+        int quantity = 10;
         double unitPrice = 65000;
 
         // total
